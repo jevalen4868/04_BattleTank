@@ -49,6 +49,9 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+# Starter Content that can easily be reimported
+Content/StarterContent/*
+
 # Builds
 Build/*
 
